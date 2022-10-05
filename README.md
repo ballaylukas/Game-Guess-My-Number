@@ -4,7 +4,7 @@ Vypracováno v rámci kurzu Udemy [JavaScript 2022](https://www.udemy.com/share/
 
 Jednoduchá hra "Guess my number!" v retro stylu vybudovaná na základech DOM manipulace a eventů.
 
-Vyzkoušej [HRU](https://ballaylukas.github.io/Game-Guess-My-Number/)!
+Vyzkoušejte [HRU](https://ballaylukas.github.io/Game-Guess-My-Number/)!
 
 ### Funkce hry
 * kontrola hádaného čísla v rozsahu 1-20
